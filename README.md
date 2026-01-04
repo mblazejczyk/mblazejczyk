@@ -89,7 +89,7 @@ Classic Tic-Tac-Toe game written in RPG for IBM i systems
 - **Tech Stack**: RPG (Report Program Generator), IBM i
 - **Features**: Interactive 5250 terminal interface, two-player gameplay, game state persistence
 
-#### [LeetCode Solutions](https://github.com/nibek1000/LeetCode)
+#### [LeetCode Solutions](https://github.com/mblazejczyk/LeetCode)
 Collection of algorithm problem solutions
 - **Tech Stack**: C#
 - **Focus**: Data structures, algorithms, problem-solving patterns
