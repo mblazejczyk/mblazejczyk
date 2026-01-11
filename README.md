@@ -98,9 +98,9 @@ Collection of algorithm problem solutions
 
 ## 🌐 Portfolio & Links
 
-- 🌍 **Portfolio Website**: [blazejczyk.net](https://blazejczyk.net/)
+- 🌍 **Portfolio Website**: [blazejczyk.com](https://blazejczyk.com/)
 - 💼 **LinkedIn**: [Mateusz Błażejczyk](https://linkedin.com/in/mateusz-błażejczyk-5b275b220)
-- 📧 **Email**: mateusz@blazejczyk.net
+- 📧 **Email**: mateusz@blazejczyk.com
 - 🎮 **Google Play**: [YellowSink](https://play.google.com/store/apps/dev?id=7896890783775146135)
 
 ---
